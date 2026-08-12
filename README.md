@@ -114,5 +114,3 @@ If this were real research:
 3. **Per-question analysis** instead of treating Q&A as one blob
 4. **Trend analysis** — does hedging increase across quarters before a bad year?
 5. **Holdout validation** to avoid overfitting
-
-For a college application, the story is: "I built a system that asks whether management language predicts returns. My n=12 results were noise — which taught me more about statistics than a positive result would have."
