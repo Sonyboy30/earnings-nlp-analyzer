@@ -14,7 +14,7 @@ with **Q&A sessions** (unscripted, revealing).
 
 # Try to load the dataset
 try:
-    df = pd.read_csv("output/dataset.csv")
+    df = pd.read_csv("./output/dataset.csv")
 except FileNotFoundError:
     st.error("❌ Dataset not found. Run `python3 build_dataset.py` first.")
     st.stop()
